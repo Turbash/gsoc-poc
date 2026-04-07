@@ -1,3 +1,5 @@
+// NOTE: This module is currently not used by the active MCP explorer flow.
+// It is intentionally kept for future OpenAPI import/pipeline work, since import from openapi is already there in apidash, so this is not what i am adding so not showcasing this yet just made for my own use.
 import fs from "node:fs/promises";
 import yaml from "js-yaml";
 import { SourceInput } from "./types.js";
