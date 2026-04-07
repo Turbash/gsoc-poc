@@ -34,4 +34,4 @@ The UI is for picking inputs and the useful result goes back into chat context.
 
 Community persistence:
 
-- Ratings and reviews are persisted in `.generated/community-store.json` for now.
+- Ratings and reviews are persisted in `data/database.json` for now.
