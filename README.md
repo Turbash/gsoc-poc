@@ -33,3 +33,7 @@ and explore if AI evaluation UI can be built using it to make it easy for end us
 2. https://github.com/ashitaprasad/sample-mcp-apps-chatflow
 
 and explore how Open Responses can be rendered from inside AI agents.
+
+## LICENSE
+
+All PoCs/Experiments submitted to this repository is under Apache 2.0 license.
